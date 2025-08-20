@@ -1,5 +1,5 @@
 initial commit 
-# habit_tracker
+# Habit tracker
 
 A Habit Tracker Flutter project.
 
