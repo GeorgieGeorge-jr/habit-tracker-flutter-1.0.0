@@ -3,15 +3,24 @@ initial commit
 
 A Habit Tracker Flutter project.
 
-## Getting Started
+Habit Tracker is a **Flutter-based mobile application** that helps users build, monitor, and manage their daily habits.  
+It features a **streak tracker** to visualize consistency and provides an easy way to **add, update, and delete habits**, keeping users organized and motivated.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+- ✅ Add new habits with custom titles  
+- ✏️ Edit and update existing habits  
+- ❌ Delete habits you no longer want to track  
+- 🔥 Streak tracker to monitor consistency over time  
+- 📊 Simple and intuitive user interface  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### Prerequisites
+Make sure you have the following installed:
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)  
+- [Dart](https://dart.dev/get-dart)  
+- Android Studio / VS Code (with Flutter extensions)
